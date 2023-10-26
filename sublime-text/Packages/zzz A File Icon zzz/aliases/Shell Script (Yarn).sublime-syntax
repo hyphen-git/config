@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: Shell Script (Yarn)
+scope: source.shell.yarn
+hidden: true
+file_extensions:
+  - .yarnrc
+contexts:
+  main:
+    - include: scope:source.shell
+      apply_prototype: true

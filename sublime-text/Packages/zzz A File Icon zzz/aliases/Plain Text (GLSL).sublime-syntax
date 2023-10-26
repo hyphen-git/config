@@ -1,0 +1,28 @@
+%YAML 1.2
+---
+name: Plain Text (GLSL)
+scope: source.glsl
+hidden: true
+file_extensions:
+  - vsh
+  - fsh
+  - gsh
+  - vshader
+  - fshader
+  - gshader
+  - vert
+  - frag
+  - geom
+  - tesc
+  - tese
+  - comp
+  - glsl
+  - mesh
+  - rgen
+  - rint
+  - rahit
+  - rchit
+  - rmiss
+  - rcall
+contexts:
+  main: []

@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: TypeScript (Windi CSS)
+scope: source.ts.windi
+hidden: true
+file_extensions:
+  - windi.config.ts
+  - windi.config.cts
+  - windi.config.mts
+contexts:
+  main:
+    - include: scope:source.ts
+      apply_prototype: true

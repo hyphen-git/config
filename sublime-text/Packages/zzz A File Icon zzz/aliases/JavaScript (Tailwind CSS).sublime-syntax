@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: JavaScript (Tailwind CSS)
+scope: source.js.tailwind
+hidden: true
+file_extensions:
+  - tailwind.config.js
+  - tailwind.config.cjs
+  - tailwind.config.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true

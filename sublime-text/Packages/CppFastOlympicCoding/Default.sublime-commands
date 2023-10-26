@@ -1,0 +1,58 @@
+[
+	{
+		"caption": "FastOlympicCoding: Open Settings",
+		"command": "olympic_funcs",
+		"args": {
+			"action": "open_settings"
+		}
+	},
+	{
+		"caption": "FastOlympicCoding: Make Stress",
+		"command": "stress_manager",
+		"args": {
+			"action": "make_stress"
+		}
+	},
+	{
+		"caption": "FastOlympicCoding: Stop Stress",
+		"command": "stress_manager",
+		"args": {
+			"action": "stop_stress"
+		}
+	},
+	{
+		"caption": "FastOlympicCoding: Select Frame",
+		"command": "view_tester",
+		"args": {
+			"action": "show_frames"
+		}
+	},
+	{
+		"caption": "FastOlympicCoding: Run",
+		"command": "view_tester",
+		"args": {
+			"action": "make_opd"
+		}
+	},
+	{
+		"caption": "FastOlympicCoding: Auto",
+		"command": "olympic_funcs",
+		"args": {
+			"action": "show_funcs"
+		}
+	},
+	{
+		"caption": "FastOlympicCoding: Setup Contest",
+		"command": "contest_handler",
+		"args": {
+			"action": "setup_contest"
+		}
+	},
+	{
+		"caption": "FastOlympicCoding: Submit",
+		"command": "contest_handler",
+		"args": {
+			"action": "submit"
+		}
+	},
+]

@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: Plain Text (Yul)
+scope: source.yul
+hidden: true
+file_extensions:
+  - yul
+  - yulp
+contexts:
+  main: []

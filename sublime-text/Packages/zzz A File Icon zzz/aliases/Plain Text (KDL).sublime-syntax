@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Plain Text (KDL)
+scope: source.kdl
+hidden: true
+file_extensions:
+  - kdl
+contexts:
+  main: []

@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Plain Text (Vyper)
+scope: source.vyper
+hidden: true
+file_extensions:
+  - vy
+contexts:
+  main: []

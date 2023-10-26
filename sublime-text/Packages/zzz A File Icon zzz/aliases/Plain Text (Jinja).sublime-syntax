@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: Plain Text (Jinja)
+scope: text.jinja
+hidden: true
+file_extensions:
+  - j2
+  - jinja
+  - jinja2
+contexts:
+  main: []

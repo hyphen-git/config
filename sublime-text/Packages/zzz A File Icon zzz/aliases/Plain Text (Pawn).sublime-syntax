@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Plain Text (Pawn)
+scope: source.pawn
+hidden: true
+file_extensions:
+  - pwn
+contexts:
+  main: []

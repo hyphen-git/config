@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: YAML (Azure)
+scope: source.yaml.azure
+hidden: true
+file_extensions:
+  - azure-pipelines.yml
+  - azure-pipelines.yaml
+contexts:
+  main:
+    - include: scope:source.yaml
+      apply_prototype: true

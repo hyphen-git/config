@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+name: UnitTest (JavaScript)
+scope: source.js.unittest
+hidden: true
+file_extensions:
+  - spec.js
+  - spec.cjs
+  - spec.mjs
+  - test.js
+  - test.cjs
+  - test.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true

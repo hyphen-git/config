@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Plain Text (Solidity)
+scope: source.solidity
+hidden: true
+file_extensions:
+  - sol
+contexts:
+  main: []

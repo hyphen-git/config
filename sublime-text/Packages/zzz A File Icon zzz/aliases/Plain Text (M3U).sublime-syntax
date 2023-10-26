@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: Plain Text (M3U)
+scope: text.m3u
+hidden: true
+file_extensions:
+  - m3u
+  - m3u8
+contexts:
+  main: []

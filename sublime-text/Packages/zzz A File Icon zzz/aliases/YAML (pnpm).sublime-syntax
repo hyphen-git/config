@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: YAML (pnpm)
+scope: source.yaml.pnpm
+hidden: true
+file_extensions:
+  - pnpm-lock.yml
+  - pnpm-lock.yaml
+  - pnpm-workspace.yml
+  - pnpm-workspace.yaml
+contexts:
+  main:
+    - include: scope:source.yaml
+      apply_prototype: true

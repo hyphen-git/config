@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: Plain Text (Email)
+scope: text.email
+hidden: true
+file_extensions:
+  - eml
+  - msg
+  - mbx
+  - mboxz
+contexts:
+  main: []

@@ -1,0 +1,18 @@
+%YAML 1.2
+---
+name: TestSyntax
+file_extensions: []
+scope: source.TestSyntax
+
+contexts:
+  main:
+    - match: Test
+      scope: storage.type.OPD
+    - match: "(} )(out)( {)"
+      captures: 
+        2: storage.type.OPD
+    - match: (} )(rtcode)
+      captures:
+        2: storage.type.OPD
+    - match: \d+
+      scope: constant.numeric.OPD

@@ -1,0 +1,22 @@
+%YAML 1.2
+---
+name: JavaScript (Gatsby)
+scope: source.js.gatsby
+hidden: true
+file_extensions:
+  - gatsby-browser.js
+  - gatsby-browser.cjs
+  - gatsby-browser.mjs
+  - gatsby-config.js
+  - gatsby-config.cjs
+  - gatsby-config.mjs
+  - gatsby-node.js
+  - gatsby-node.cjs
+  - gatsby-node.mjs
+  - gatsby-ssr.js
+  - gatsby-ssr.cjs
+  - gatsby-ssr.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true

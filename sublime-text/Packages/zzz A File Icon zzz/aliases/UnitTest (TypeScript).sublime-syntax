@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+name: UnitTest (TypeScript)
+scope: source.ts.unittest
+hidden: true
+file_extensions:
+  - spec.ts
+  - spec.cts
+  - spec.mts
+  - test.ts
+  - test.cts
+  - test.mts
+contexts:
+  main:
+    - include: scope:source.ts
+      apply_prototype: true

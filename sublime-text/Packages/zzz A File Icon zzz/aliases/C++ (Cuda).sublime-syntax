@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: C++ (Cuda)
+scope: source.cuda-c++
+hidden: true
+file_extensions:
+  - cu
+  - cuh
+contexts:
+  main:
+    - include: scope:source.c++
+      apply_prototype: true

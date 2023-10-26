@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: JavaScript (Vercel)
+scope: source.js.vercel
+hidden: true
+file_extensions:
+  - vercel.config.js
+  - vercel.config.cjs
+  - vercel.config.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true

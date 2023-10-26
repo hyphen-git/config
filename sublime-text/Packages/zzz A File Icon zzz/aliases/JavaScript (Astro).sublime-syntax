@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: JavaScript (Astro)
+scope: source.js.astro
+hidden: true
+file_extensions:
+  - astro.config.js
+  - astro.config.cjs
+  - astro.config.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true

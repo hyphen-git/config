@@ -1,0 +1,16 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+	},
+	"globals":
+	{
+		"block_caret" : "#171b22",
+
+
+	},
+	"rules":
+	[
+		
+	]
+}

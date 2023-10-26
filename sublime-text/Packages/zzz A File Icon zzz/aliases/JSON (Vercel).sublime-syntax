@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: JSON (Vercel)
+scope: source.json.vercel
+hidden: true
+file_extensions:
+  - vercel.json
+contexts:
+  main:
+    - include: scope:source.json
+      apply_prototype: true

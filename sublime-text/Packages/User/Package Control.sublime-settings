@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CppFastOlympicCoding",
+		"Dracula Color Scheme",
+		"Easy Import",
+		"Emmet",
+		"FileDiffs",
+		"Gutter Color",
+		"Less",
+		"LSP",
+		"LSP-clangd",
+		"LSP-css",
+		"LSP-html",
+		"LSP-jdtls",
+		"LSP-lua",
+		"LSP-pyright",
+		"LSP-typescript",
+		"Materialize",
+		"Package Control",
+		"SideBarEnhancements",
+		"Terminal",
+		"Vintageous",
+	],
+}

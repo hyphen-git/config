@@ -1,0 +1,1 @@
+{"platforms": ["*"], "sublime_text": ">=3000", "description": "A Sublime Text 3 plugin which displays a colour in the gutter if the line contains a colour.", "url": "https://github.com/ggordan/GutterColor", "dependencies": [], "version": "0.3.3"}

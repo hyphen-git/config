@@ -1,0 +1,26 @@
+[
+
+	{
+	    "keys": ["j", "j"],
+	    "command": "_enter_normal_mode",
+	    "args": {"mode": "mode_insert"},
+	    "context": [{"key": "vi_insert_mode_aware"}]
+	},
+
+
+	{ "keys": ["ctrl+j"], "command": "auto_complete" },
+	{ "keys": ["ctrl+j"], "command": "move", "args": {"by": "lines", "forward": true}, "context":
+		[
+			{ "key": "auto_complete_primed", "operator": "equal", "operand": true }
+		]
+	},
+
+
+	{ "keys": ["ctrl+h"], "command": "focus_neighboring_group", "args": {"forward": false} },
+
+	{ "keys": ["ctrl+l"], "command": "focus_neighboring_group" },
+
+
+		
+
+]

@@ -1,0 +1,37 @@
+{
+	"ignored_packages": [
+	],
+    "theme": "Adaptive.sublime-theme",
+	"font_face": "Fira Code",
+	"font_size": 17,
+	"vintage_start_in_command_mode": true,
+	"open_files_in_new_window": false,
+	"fold_buttons" : true,
+	"mini_diff" : true,
+	"rulers" : [],
+	"rulers_style" : "dotted",
+	"word_wrap": true,
+	"draw_minimap_border" : true,
+	"highlight_line" : true,
+	"caret_style" : "smooth",
+	"remember_workspace": false,
+	 "remember_open_files": false,
+    "hot_exit": false,
+
+
+
+
+
+
+
+
+
+
+
+	"color_scheme": "Packages/Materialize/schemes/Material Dracula.tmTheme",
+
+	"dark_color_scheme": "Mariana.sublime-color-scheme",
+	"light_color_scheme": "Mariana.sublime-color-scheme",
+	"dark_theme": "Default Dark.sublime-theme",
+	"light_theme": "Adaptive.sublime-theme",
+}

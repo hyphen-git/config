@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Typst
+scope: text.typst
+hidden: true
+file_extensions:
+  - typ
+contexts:
+  main: []

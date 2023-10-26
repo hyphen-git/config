@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: Kotlin (Gradle)
+scope: source.Kotlin.gradle
+hidden: true
+file_extensions:
+  - gradle.kts
+contexts:
+  main:
+    - include: scope:source.Kotlin
+      apply_prototype: true

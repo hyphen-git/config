@@ -1,0 +1,14 @@
+.def-type {
+	color: #cc99cc;
+	display: inline;
+}
+
+.number {
+	color: #d08770;
+	display: inline;
+}
+
+.main-panel {
+	background-color: var(--background);
+	margin: 0px;
+}

@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: Text Plain (Wolfram)
+scope: source.wolfram
+hidden: true
+file_extensions:
+  - wl
+  - wls
+  - wlt
+  - mt
+contexts:
+  main: []

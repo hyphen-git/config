@@ -1,0 +1,1538 @@
+{
+	"file_history":
+	[
+		"/home/ronan/.config/picom.conf",
+		"/mnt/sda1/backup/nvim/lua/ronan/plugin.lua",
+		"/home/ronan/.config/nvim/lua/core/mapping.lua",
+		"/home/ronan/.config/nvim/lua/core/init.lua",
+		"/home/ronan/.config/nvim/lua/plugins/nvim-tree.lua",
+		"/home/ronan/.config/nvim/lua/plugins/treesitter.lua",
+		"/mnt/sda1/backup/nvim/lua/ronan/nvimtree.lua",
+		"/home/ronan/.config/nvim/init.lua",
+		"/home/ronan/.config/nvim/lua/plugins/colorscheme.lua",
+		"/home/ronan/.config/nvim/lua/plugins/telescope.lua",
+		"/home/ronan/.config/nvim/lua/plugins/tel.lua",
+		"/home/ronan/.config/nvim/lua/plugins/nightfox.lua",
+		"/home/ronan/.config/nvim/lua/core/tkn.lua",
+		"/home/ronan/.config/nvim/lua/core/options.lua",
+		"/home/ronan/.config/nvim/lua/core/plugins.lua",
+		"/home/ronan/.config/nvim/lua/plugins/autoclose.lua",
+		"/mnt/sda1/backup/nvim/lua/ronan/mapping.lua",
+		"/home/ronan/Test/test.cpp",
+		"/home/ronan/.config/wofi/style.css",
+		"/home/ronan/.bashrc",
+		"/home/ronan/.config/i3/config",
+		"/home/ronan/.config/i3/config.save",
+		"/mnt/sda1/nftMarketplace-navBar/components/NavBar/NavBar.jsx",
+		"/mnt/sda1/nftMarketplace-navBar/node_modules/react-icons/cg/index.d.ts",
+		"/mnt/sda1/nftMarketplace-navBar/node_modules/eslint/lib/rules/newline-after-var.js",
+		"/mnt/sda1/nftMarketplace-navBar/components/Footer/Footer.jsx",
+		"/mnt/sda1/nftMarketplace-navBar/node_modules/node-forge/lib/asn1-validator.js",
+		"/home/ronan/Test/test.js",
+		"/home/ronan/Test/test.css",
+		"/home/ronan/Test/test.html",
+		"/home/ronan/Test/test.java",
+		"/home/ronan/Test/test.lua",
+		"/home/ronan/Test/test.py",
+		"/home/ronan/.config/sublime-text/Packages/LSP-clangd/LSP-clangd.sublime-settings",
+		"/home/ronan/.config/sublime-text/Packages/User/LSP-clangd.sublime-settings",
+		"/home/ronan/.config/sublime-text/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/mnt/sda1/backup/nvim/lua/ronan/init.lua",
+		"/home/ronan/.config/gtk-3.0/bookmarks",
+		"/home/ronan/.config/gtk-4.0/gtk-dark.css",
+		"/home/ronan/.config/gtk-3.0/gtk-dark.css",
+		"/home/ronan/.config/gtk-3.0/gtk.css",
+		"/run/media/ronan/Disk/timeshift/snapshots-ondemand/2023-10-06_21-48-02/localhost/home/hyphen/nft-frontend/contracts/NFTMarketplace.sol",
+		"/home/hyphen/nft-frontend/contracts/NFTMarketplace.sol",
+		"/home/hyphen/.bashrc",
+		"/mnt/sda1/timeshift/snapshots-ondemand/2023-09-27_22-01-47/localhost/home/hyphen/.bashrc",
+		"/home/hyphen/.config/nvim_backup/lua/custom/chadrc.lua",
+		"/home/hyphen/.config/nvim_backup/lua/custom/mappings.lua",
+		"/home/hyphen/.config/fish/config.fish",
+		"/home/hyphen/.config/nvim/lua/ronan/init.lua",
+		"/home/hyphen/.config/nvim/init.lua",
+		"/home/hyphen/.config/nvim/lua/ronan/mapping.lua",
+		"/home/hyphen/Test/test.cpp",
+		"/home/hyphen/.config/i3/config",
+		"/home/hyphen/Documents/kdeshortcuts.kksrc",
+		"/home/ronan/.config/i3/i3status.conf",
+		"/mnt/sda1/timeshift/snapshots-ondemand/2023-09-18_20-50-00/localhost/home/oxy/.config/i3/config",
+		"/home/ronan/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/ronan/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/ronan/.config/kitty/kitty.conf",
+		"/home/oxy/.config/i3/i3status.conf",
+		"/home/oxy/.config/i3/config",
+		"/etc/i3status.conf",
+		"/etc/environment",
+		"/home/oxy/Test/test.cpp",
+		"/home/oxy/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/oxy/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/oxy/.config/sublime-text/Packages/User/Plain text.sublime-settings",
+		"/home/oxy/.bashrc",
+		"/home/hyphen/.config/bspwm/themes/adaptive/polybar/config.ini",
+		"/home/hyphen/.config/bspwm/themes/adaptive/polybar/modules.ini",
+		"/home/hyphen/.config/bspwm/bspwmrc",
+		"/home/hyphen/.config/bspwm/themes/adaptive/polybar/launch.sh",
+		"/home/hyphen/react1/README.md",
+		"/home/hyphen/nftMarketplace-starter-file/styles/globals.css",
+		"/home/hyphen/NFTmp/contracts/NFTMarketplace.sol",
+		"/home/hyphen/.config/bspwm/sxhkdrc",
+		"/home/hyphen/thirdweb-contracts/README.md",
+		"/home/hyphen/.config/bspwm/alacritty/fonts.yml",
+		"/home/hyphen/.config/alacritty/fonts.yml",
+		"/home/hyphen/Test/test.c",
+		"/mnt/sda1/backup/metamask_recovry.txt",
+		"/home/hyphen/thirdweb-contracts/contracts/MyContract.sol",
+		"/home/hyphen/Test/test.js",
+		"/home/hyphen/Dev/HelloWorld/src/main.cpp",
+		"/home/hyphen/Dev/HelloWorld/CMakeLists.txt",
+		"/home/hyphen/Dev/HelloWorld/build.sh",
+		"/home/hyphen/C++/Hello/CMakeCache.txt",
+		"/home/hyphen/C++/Hello/build.sh",
+		"/home/hyphen/C++/src/CMakeLists.txt",
+		"/home/hyphen/.config/bspwm/themes/polybar.sh",
+		"/home/hyphen/Test/test.zig",
+		"/home/hyphen/test.zig",
+		"/home/hyphen/Test/test.java",
+		"/home/hyphen/Test/test.py",
+		"/home/hyphen/.config/mimeapps.list",
+		"/home/hyphen/.zshrc",
+		"/home/hyphen/.config/sublime-text/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/hyphen/.config/bspwm/scripts/rofi_bluetooth",
+		"/mnt/sda1/MERN-ecommerce-backend/index.js",
+		"/home/hyphen/.config/bspwm/alacritty/alacritty.yml",
+		"/home/hyphen/.config/bspwm/picom.conf",
+		"/home/hyphen/.config/bspwm/themes/system.ini",
+		"/run/media/hyphen/Disk/PlK/MERN-ecommerce-backend/index.js",
+		"/home/hyphen/.zcompdump-hyphen-hplaptop15da3xxx-5.9",
+		"/home/hyphen/.vimrc",
+		"/home/hyphen/.config/bspwm/backup.txt",
+		"/home/hyphen/.config/bspwm/xsettingsd",
+		"/home/hyphen/.config/bspwm/dunstrc",
+		"/mnt/sda1/PlK/MERN-ecommerce-backend/index.js",
+		"/home/hyphen/.config/sublime-text/Packages/User/GitHub Dark.sublime-color-scheme",
+		"/home/hyphen/.config/sublime-text/Packages/GitHub Theme/schemes/GitHub Dark.sublime-color-scheme",
+		"/home/hyphen/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/hyphen/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/hyphen/.config/sublime-text/Packages/User/Adaptive.sublime-theme",
+		"/home/hyphen/.config/sublime-text/Packages/Theme - Default/Adaptive.sublime-theme",
+		"/mnt/sda1/PlK",
+		"/run/media/hyphen/Disk/timeshift/snapshots-ondemand/2023-08-27_10-32-06/localhost/home/hyphen/.bashrc",
+		"/home/hyphen/.config/qtile/modules/keys.py",
+		"/home/hyphen/Test/test.css",
+		"/home/hyphen/Test/test.html",
+		"/home/hyphen/.config/sublime-text/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/hyphen/Test/streamlit.py",
+		"/home/hyphen/PLK-frontend/src/features/common/Footer.js",
+		"/home/hyphen/PLK-frontend/src/features/admin/components/ProductForm.js",
+		"/home/hyphen/PLK-frontend/src/features/navbar/Navbar.js",
+		"/home/hyphen/PLK-frontend/src/features/admin/components/AdminProductList.js",
+		"/home/hyphen/PLK-frontend/src/features/product/components/ProductDetail.js",
+		"/home/hyphen/PLK-frontend/src/pages/ProductDetailPage.js"
+	],
+	"folder_history":
+	[
+		"/home/ronan/starter",
+		"/home/ronan/NvChad",
+		"/home/ronan/.config/nvim",
+		"/mnt/sda1/nftMarketplace-navBar",
+		"/home/ronan/Test",
+		"/mnt/sda1/backup/nvim",
+		"/home/ronan/.config/gtk-4.0",
+		"/home/ronan/.config/gtk-3.0",
+		"/home/hyphen/nft-frontend",
+		"/home/hyphen/thirdweb-contracts",
+		"/home/hyphen/Dev/HelloWorld",
+		"/home/hyphen/Test",
+		"/home/hyphen/PLK-deploy",
+		"/home/hyphen/PLK-frontend",
+		"/home/hyphen/MERN-ecommerce-backend",
+		"/home/hyphen/MERN-ecommerce-Frontend",
+		"/home/hyphen/PlK/MERN-ecommerce-Frontend",
+		"/home/hyphen/PlK/MERN-ecommerce-backend",
+		"/etc",
+		"/home/hyphen/PLK",
+		"/home/hyphen/PLK/frontend",
+		"/home/hyphen/deploy",
+		"/home/hyphen/Test_deploy",
+		"/home/hyphen/PLK/backend",
+		"/home/hyphen/PLK_Backend",
+		"/home/hyphen/PLK_frontend",
+		"/home/hyphen/mern-ecommerce",
+		"/home/hyphen/PLK/MERN-ecommerce-backend",
+		"/home/hyphen/PLK/MERN-ecommerce-Frontend",
+		"/home/hyphen/ecommerce-admin",
+		"/home/hyphen/ecommerce-front",
+		"/home/hyphen/Plk-backend",
+		"/home/hyphen/.config/qtile",
+		"/home/hyphen/.config/qtile/modules",
+		"/home/hyphen/ecom"
+	],
+	"last_version": 4152,
+	"last_window_id": 81,
+	"log_indexing": false,
+	"next_update_check": 1698373460,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			8.0,
+			26.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"plug",
+						"plugins.tel"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"font",
+						"font-smooth"
+					],
+					[
+						"q",
+						"sqrt"
+					],
+					[
+						"i",
+						"is_protocol"
+					],
+					[
+						"rand",
+						"randint"
+					],
+					[
+						"me",
+						"mediumgrey"
+					],
+					[
+						"--no",
+						"--no-startup-id"
+					],
+					[
+						"exe",
+						"exec_always"
+					],
+					[
+						"sel",
+						"selectedSize"
+					],
+					[
+						"setSel",
+						"setSelectedSize"
+					],
+					[
+						"serv",
+						"services/"
+					],
+					[
+						"hand",
+						"handleRzPayment"
+					],
+					[
+						"handle",
+						"handleRzPayment"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"handleR",
+						"handleRzPayment"
+					],
+					[
+						"tota",
+						"totalAmount"
+					],
+					[
+						"stripe",
+						"StripeCheckout.js"
+					],
+					[
+						"payme",
+						"paymentRoutes"
+					],
+					[
+						"ra",
+						"razorpay_signature"
+					],
+					[
+						"Ra",
+						"RAZORPAY_KEY_SECRET"
+					],
+					[
+						"pr",
+						"process"
+					],
+					[
+						"r",
+						"razorpay_payment_id"
+					],
+					[
+						"raz",
+						"razorpay_order_id"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"rz",
+						"rzCheckout"
+					],
+					[
+						"def",
+						"default"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"py",
+						"paymentController"
+					],
+					[
+						"pay",
+						"paymentController"
+					],
+					[
+						"controll",
+						"controller/"
+					],
+					[
+						"con",
+						"controller"
+					],
+					[
+						"exor",
+						"export"
+					],
+					[
+						"expor",
+						"export"
+					],
+					[
+						"layout",
+						"layout_theme"
+					],
+					[
+						"wall",
+						"wallpaper.png"
+					],
+					[
+						"qit",
+						"qtile_extras"
+					],
+					[
+						"dr",
+						"dracula"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"S",
+						"SESSION_KEY"
+					],
+					[
+						"bg",
+						"bg-gray-800"
+					],
+					[
+						"bg-gr",
+						"bg-gray-800"
+					],
+					[
+						"for",
+						"format"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							""
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (All)"
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (This File Only)"
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: isn",
+						"Package Control: Install Package"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: isnt",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Repository"
+					],
+					[
+						"Package Control: rme",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Package Control: remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"clang",
+						"Preferences: LSP-clangd Settings"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"mne",
+						"Snippet: Materialize new badge with google icons"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"MENU",
+						"FileDiffs: Menu"
+					],
+					[
+						"em",
+						"BracketHighlighter: Enable Debug Mode"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ronan/.config/picom.conf",
+				"/mnt/sda1/backup/nvim/lua/ronan/plugin.lua",
+				"/home/ronan/.config/nvim/lua/core/mapping.lua",
+				"/home/ronan/.config/nvim/lua/core/init.lua",
+				"/home/ronan/.config/nvim/lua/plugins/nvim-tree.lua",
+				"/home/ronan/.config/nvim/lua/plugins/treesitter.lua",
+				"/mnt/sda1/backup/nvim/lua/ronan/nvimtree.lua",
+				"/home/ronan/.config/nvim/init.lua",
+				"/home/ronan/.config/nvim/lua/plugins/colorscheme.lua",
+				"/home/ronan/.config/nvim/lua/plugins/telescope.lua",
+				"/home/ronan/.config/nvim/lua/plugins/tel.lua",
+				"/home/ronan/.config/nvim/lua/plugins/nightfox.lua",
+				"/home/ronan/.config/nvim/lua/core/tkn.lua",
+				"/home/ronan/.config/nvim/lua/core/options.lua",
+				"/home/ronan/.config/nvim/lua/core/plugins.lua",
+				"/home/ronan/.config/nvim/lua/plugins/autoclose.lua",
+				"/home/ronan/Test/test.cpp",
+				"/home/ronan/.config/wofi/style.css",
+				"/home/ronan/.bashrc",
+				"/home/ronan/.config/i3/config",
+				"/home/ronan/.config/i3/config.save",
+				"/mnt/sda1/nftMarketplace-navBar/components/NavBar/NavBar.jsx",
+				"/mnt/sda1/nftMarketplace-navBar/node_modules/react-icons/cg/index.d.ts",
+				"/mnt/sda1/nftMarketplace-navBar/node_modules/node-forge/lib/asn1-validator.js",
+				"/mnt/sda1/nftMarketplace-navBar/node_modules/eslint/lib/rules/newline-after-var.js",
+				"/mnt/sda1/nftMarketplace-navBar/components/Footer/Footer.jsx",
+				"/home/ronan/Test/test.js",
+				"/home/ronan/Test/test.css",
+				"/home/ronan/Test/test.html",
+				"/home/ronan/Test/test.java",
+				"/home/ronan/Test/test.lua",
+				"/home/ronan/Test/test.py",
+				"/home/ronan/.config/sublime-text/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/mnt/sda1/backup/nvim/lua/ronan/init.lua",
+				"/mnt/sda1/backup/nvim/lua/ronan/mapping.lua",
+				"/home/ronan/.config/gtk-3.0/bookmarks",
+				"/home/ronan/.config/gtk-4.0/gtk-dark.css",
+				"/home/ronan/.config/gtk-3.0/gtk-dark.css",
+				"/home/ronan/.config/gtk-3.0/gtk.css",
+				"/run/media/ronan/Disk/timeshift/snapshots-ondemand/2023-10-06_21-48-02/localhost/home/hyphen/nft-frontend/contracts/NFTMarketplace.sol",
+				"/home/hyphen/nft-frontend/contracts/NFTMarketplace.sol",
+				"/home/hyphen/.bashrc",
+				"/mnt/sda1/timeshift/snapshots-ondemand/2023-09-27_22-01-47/localhost/home/hyphen/.bashrc",
+				"/home/hyphen/.config/nvim_backup/lua/custom/chadrc.lua",
+				"/home/hyphen/.config/nvim_backup/lua/custom/mappings.lua",
+				"/home/hyphen/.config/fish/config.fish",
+				"/home/hyphen/.config/nvim/lua/ronan/init.lua",
+				"/home/hyphen/.config/nvim/init.lua",
+				"/home/hyphen/.config/nvim/lua/ronan/mapping.lua",
+				"/home/hyphen/Test/test.cpp",
+				"/home/hyphen/.config/i3/config",
+				"/home/hyphen/Documents/kdeshortcuts.kksrc",
+				"/home/ronan/.config/i3/i3status.conf",
+				"/mnt/sda1/timeshift/snapshots-ondemand/2023-09-18_20-50-00/localhost/home/oxy/.config/i3/config",
+				"/home/ronan/.config/kitty/kitty.conf",
+				"/home/oxy/.config/i3/i3status.conf",
+				"/home/oxy/.config/i3/config",
+				"/etc/i3status.conf",
+				"/etc/environment",
+				"/home/oxy/Test/test.cpp",
+				"/home/oxy/.bashrc",
+				"/home/hyphen/.config/bspwm/themes/adaptive/polybar/config.ini",
+				"/home/hyphen/.config/bspwm/themes/adaptive/polybar/modules.ini",
+				"/home/hyphen/.config/bspwm/bspwmrc",
+				"/home/hyphen/.config/bspwm/themes/adaptive/polybar/launch.sh",
+				"/home/hyphen/react1/README.md",
+				"/home/hyphen/nftMarketplace-starter-file/styles/globals.css",
+				"/home/hyphen/NFTmp/contracts/NFTMarketplace.sol",
+				"/home/hyphen/.config/bspwm/sxhkdrc",
+				"/home/hyphen/thirdweb-contracts/README.md",
+				"/home/hyphen/.config/bspwm/alacritty/fonts.yml",
+				"/home/hyphen/.config/alacritty/fonts.yml",
+				"/home/hyphen/Test/test.c",
+				"/mnt/sda1/backup/metamask_recovry.txt",
+				"/home/hyphen/thirdweb-contracts/contracts/MyContract.sol",
+				"/home/hyphen/Test/test.js",
+				"/home/hyphen/Dev/HelloWorld/src/main.cpp",
+				"/home/hyphen/Dev/HelloWorld/CMakeLists.txt",
+				"/home/hyphen/Dev/HelloWorld/build.sh",
+				"/home/hyphen/C++/Hello/CMakeCache.txt",
+				"/home/hyphen/C++/Hello/build.sh",
+				"/home/hyphen/C++/src/CMakeLists.txt",
+				"/home/hyphen/.config/bspwm/themes/polybar.sh",
+				"/home/hyphen/Test/test.zig",
+				"/home/hyphen/test.zig",
+				"/home/hyphen/Test/test.java",
+				"/home/hyphen/Test/test.py",
+				"/home/hyphen/.config/mimeapps.list",
+				"/home/hyphen/.zshrc",
+				"/home/hyphen/.config/sublime-text/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/hyphen/.config/bspwm/scripts/rofi_bluetooth",
+				"/mnt/sda1/MERN-ecommerce-backend/index.js",
+				"/home/hyphen/.config/bspwm/alacritty/alacritty.yml",
+				"/home/hyphen/.config/bspwm/picom.conf",
+				"/home/hyphen/.config/bspwm/themes/system.ini",
+				"/run/media/hyphen/Disk/PlK/MERN-ecommerce-backend/index.js",
+				"/home/hyphen/.zcompdump-hyphen-hplaptop15da3xxx-5.9",
+				"/home/hyphen/.vimrc",
+				"/home/hyphen/.config/bspwm/backup.txt",
+				"/home/hyphen/.config/bspwm/xsettingsd",
+				"/home/hyphen/.config/bspwm/dunstrc",
+				"/mnt/sda1/PlK/MERN-ecommerce-backend/index.js",
+				"/home/hyphen/.config/sublime-text/Packages/User/GitHub Dark.sublime-color-scheme",
+				"/home/hyphen/.config/sublime-text/Packages/GitHub Theme/schemes/GitHub Dark.sublime-color-scheme",
+				"/home/hyphen/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/hyphen/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/mnt/sda1/PlK",
+				"/run/media/hyphen/Disk/timeshift/snapshots-ondemand/2023-08-27_10-32-06/localhost/home/hyphen/.bashrc",
+				"/home/hyphen/.config/qtile/modules/keys.py",
+				"/home/hyphen/Test/test.css",
+				"/home/hyphen/Test/test.html",
+				"/home/hyphen/.config/sublime-text/Packages/LiveReload/LiveReload.sublime-settings",
+				"/home/hyphen/Test/streamlit.py",
+				"/home/hyphen/PLK-frontend/src/features/common/Footer.js",
+				"/home/hyphen/PLK-frontend/src/features/admin/components/ProductForm.js",
+				"/home/hyphen/PLK-frontend/src/features/navbar/Navbar.js",
+				"/home/hyphen/PLK-frontend/src/features/admin/components/AdminProductList.js",
+				"/home/hyphen/PLK-frontend/src/features/product/components/ProductDetail.js",
+				"/home/hyphen/PLK-frontend/src/pages/ProductDetailPage.js",
+				"/home/hyphen/PLK-frontend/src/features/product/productSlice.js",
+				"/home/hyphen/PLK-frontend/src/features/product/productAPI.js",
+				"/home/hyphen/MERN-ecommerce-backend/vercel.json",
+				"/home/hyphen/MERN-ecommerce-backend/index.js",
+				"/home/hyphen/MERN-ecommerce-backend/.env",
+				"/home/hyphen/MERN-ecommerce-backend/routes/payment.js",
+				"/home/hyphen/MERN-ecommerce-backend/services/common.js",
+				"/home/hyphen/MERN-ecommerce-backend/controller/paymentController.js",
+				"/home/hyphen/MERN-ecommerce-backend/controller/Order.js"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"menu_visible": false,
+			"output.LSP Log Panel":
+			{
+				"height": 174.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 156.0
+			},
+			"output.diagnostics":
+			{
+				"height": 162.0
+			},
+			"output.exec":
+			{
+				"height": 270.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups-dummy":
+			{
+				"height": 0.0
+			},
+			"output.references":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"nav",
+						"node_modules/node-forge/lib/asn1-validator.js"
+					],
+					[
+						"footer",
+						"components/Footer/Footer.jsx"
+					],
+					[
+						"nft",
+						"contracts/NFTMarketplace.sol"
+					],
+					[
+						"foot",
+						"src/features/common/Footer.js"
+					],
+					[
+						"productdea",
+						"src/features/product/components/ProductDetail.js"
+					],
+					[
+						"product",
+						"src/features/product/components/ProductDetail.js"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						".",
+						".env"
+					],
+					[
+						"packag",
+						"package.json"
+					],
+					[
+						"navba",
+						"src/features/navbar/Navbar.js"
+					],
+					[
+						"checkout",
+						"src/pages/Checkout.js"
+					],
+					[
+						"stripe",
+						"src/pages/StripeCheckout.js"
+					],
+					[
+						"colle",
+						"backend/node_modules/mongoose/lib/collection.js"
+					],
+					[
+						"index.js",
+						"backend/index.js"
+					],
+					[
+						"sign",
+						"src/features/auth/components/Signup.js"
+					],
+					[
+						"commen",
+						"node_modules/postcss/lib/comment.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"mon",
+						"lib/mongoose.js"
+					],
+					[
+						"page",
+						"app/page.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 1
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"plug",
+						"plugins.tel"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"font",
+						"font-smooth"
+					],
+					[
+						"q",
+						"sqrt"
+					],
+					[
+						"i",
+						"is_protocol"
+					],
+					[
+						"rand",
+						"randint"
+					],
+					[
+						"me",
+						"mediumgrey"
+					],
+					[
+						"--no",
+						"--no-startup-id"
+					],
+					[
+						"exe",
+						"exec_always"
+					],
+					[
+						"sel",
+						"selectedSize"
+					],
+					[
+						"setSel",
+						"setSelectedSize"
+					],
+					[
+						"serv",
+						"services/"
+					],
+					[
+						"hand",
+						"handleRzPayment"
+					],
+					[
+						"handle",
+						"handleRzPayment"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"handleR",
+						"handleRzPayment"
+					],
+					[
+						"tota",
+						"totalAmount"
+					],
+					[
+						"stripe",
+						"StripeCheckout.js"
+					],
+					[
+						"payme",
+						"paymentRoutes"
+					],
+					[
+						"ra",
+						"razorpay_signature"
+					],
+					[
+						"Ra",
+						"RAZORPAY_KEY_SECRET"
+					],
+					[
+						"pr",
+						"process"
+					],
+					[
+						"r",
+						"razorpay_payment_id"
+					],
+					[
+						"raz",
+						"razorpay_order_id"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"rz",
+						"rzCheckout"
+					],
+					[
+						"def",
+						"default"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"py",
+						"paymentController"
+					],
+					[
+						"pay",
+						"paymentController"
+					],
+					[
+						"controll",
+						"controller/"
+					],
+					[
+						"con",
+						"controller"
+					],
+					[
+						"exor",
+						"export"
+					],
+					[
+						"expor",
+						"export"
+					],
+					[
+						"layout",
+						"layout_theme"
+					],
+					[
+						"wall",
+						"wallpaper.png"
+					],
+					[
+						"qit",
+						"qtile_extras"
+					],
+					[
+						"dr",
+						"dracula"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"S",
+						"SESSION_KEY"
+					],
+					[
+						"bg",
+						"bg-gray-800"
+					],
+					[
+						"bg-gr",
+						"bg-gray-800"
+					],
+					[
+						"for",
+						"format"
+					]
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							""
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (All)"
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (This File Only)"
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: isn",
+						"Package Control: Install Package"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: isnt",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Repository"
+					],
+					[
+						"Package Control: rme",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Package Control: remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"clang",
+						"Preferences: LSP-clangd Settings"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"mne",
+						"Snippet: Materialize new badge with google icons"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"MENU",
+						"FileDiffs: Menu"
+					],
+					[
+						"em",
+						"BracketHighlighter: Enable Debug Mode"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ronan/.config/picom.conf",
+				"/mnt/sda1/backup/nvim/lua/ronan/plugin.lua",
+				"/home/ronan/.config/nvim/lua/core/mapping.lua",
+				"/home/ronan/.config/nvim/lua/core/init.lua",
+				"/home/ronan/.config/nvim/lua/plugins/nvim-tree.lua",
+				"/home/ronan/.config/nvim/lua/plugins/treesitter.lua",
+				"/mnt/sda1/backup/nvim/lua/ronan/nvimtree.lua",
+				"/home/ronan/.config/nvim/init.lua",
+				"/home/ronan/.config/nvim/lua/plugins/colorscheme.lua",
+				"/home/ronan/.config/nvim/lua/plugins/telescope.lua",
+				"/home/ronan/.config/nvim/lua/plugins/tel.lua",
+				"/home/ronan/.config/nvim/lua/plugins/nightfox.lua",
+				"/home/ronan/.config/nvim/lua/core/tkn.lua",
+				"/home/ronan/.config/nvim/lua/core/options.lua",
+				"/home/ronan/.config/nvim/lua/core/plugins.lua",
+				"/home/ronan/.config/nvim/lua/plugins/autoclose.lua",
+				"/home/ronan/Test/test.cpp",
+				"/home/ronan/.config/wofi/style.css",
+				"/home/ronan/.bashrc",
+				"/home/ronan/.config/i3/config",
+				"/home/ronan/.config/i3/config.save",
+				"/mnt/sda1/nftMarketplace-navBar/components/NavBar/NavBar.jsx",
+				"/mnt/sda1/nftMarketplace-navBar/node_modules/react-icons/cg/index.d.ts",
+				"/mnt/sda1/nftMarketplace-navBar/node_modules/node-forge/lib/asn1-validator.js",
+				"/mnt/sda1/nftMarketplace-navBar/node_modules/eslint/lib/rules/newline-after-var.js",
+				"/mnt/sda1/nftMarketplace-navBar/components/Footer/Footer.jsx",
+				"/home/ronan/Test/test.js",
+				"/home/ronan/Test/test.css",
+				"/home/ronan/Test/test.html",
+				"/home/ronan/Test/test.java",
+				"/home/ronan/Test/test.lua",
+				"/home/ronan/Test/test.py",
+				"/home/ronan/.config/sublime-text/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/mnt/sda1/backup/nvim/lua/ronan/init.lua",
+				"/mnt/sda1/backup/nvim/lua/ronan/mapping.lua",
+				"/home/ronan/.config/gtk-3.0/bookmarks",
+				"/home/ronan/.config/gtk-4.0/gtk-dark.css",
+				"/home/ronan/.config/gtk-3.0/gtk-dark.css",
+				"/home/ronan/.config/gtk-3.0/gtk.css",
+				"/run/media/ronan/Disk/timeshift/snapshots-ondemand/2023-10-06_21-48-02/localhost/home/hyphen/nft-frontend/contracts/NFTMarketplace.sol",
+				"/home/hyphen/nft-frontend/contracts/NFTMarketplace.sol",
+				"/home/hyphen/.bashrc",
+				"/mnt/sda1/timeshift/snapshots-ondemand/2023-09-27_22-01-47/localhost/home/hyphen/.bashrc",
+				"/home/hyphen/.config/nvim_backup/lua/custom/chadrc.lua",
+				"/home/hyphen/.config/nvim_backup/lua/custom/mappings.lua",
+				"/home/hyphen/.config/fish/config.fish",
+				"/home/hyphen/.config/nvim/lua/ronan/init.lua",
+				"/home/hyphen/.config/nvim/init.lua",
+				"/home/hyphen/.config/nvim/lua/ronan/mapping.lua",
+				"/home/hyphen/Test/test.cpp",
+				"/home/hyphen/.config/i3/config",
+				"/home/hyphen/Documents/kdeshortcuts.kksrc",
+				"/home/ronan/.config/i3/i3status.conf",
+				"/mnt/sda1/timeshift/snapshots-ondemand/2023-09-18_20-50-00/localhost/home/oxy/.config/i3/config",
+				"/home/ronan/.config/kitty/kitty.conf",
+				"/home/oxy/.config/i3/i3status.conf",
+				"/home/oxy/.config/i3/config",
+				"/etc/i3status.conf",
+				"/etc/environment",
+				"/home/oxy/Test/test.cpp",
+				"/home/oxy/.bashrc",
+				"/home/hyphen/.config/bspwm/themes/adaptive/polybar/config.ini",
+				"/home/hyphen/.config/bspwm/themes/adaptive/polybar/modules.ini",
+				"/home/hyphen/.config/bspwm/bspwmrc",
+				"/home/hyphen/.config/bspwm/themes/adaptive/polybar/launch.sh",
+				"/home/hyphen/react1/README.md",
+				"/home/hyphen/nftMarketplace-starter-file/styles/globals.css",
+				"/home/hyphen/NFTmp/contracts/NFTMarketplace.sol",
+				"/home/hyphen/.config/bspwm/sxhkdrc",
+				"/home/hyphen/thirdweb-contracts/README.md",
+				"/home/hyphen/.config/bspwm/alacritty/fonts.yml",
+				"/home/hyphen/.config/alacritty/fonts.yml",
+				"/home/hyphen/Test/test.c",
+				"/mnt/sda1/backup/metamask_recovry.txt",
+				"/home/hyphen/thirdweb-contracts/contracts/MyContract.sol",
+				"/home/hyphen/Test/test.js",
+				"/home/hyphen/Dev/HelloWorld/src/main.cpp",
+				"/home/hyphen/Dev/HelloWorld/CMakeLists.txt",
+				"/home/hyphen/Dev/HelloWorld/build.sh",
+				"/home/hyphen/C++/Hello/CMakeCache.txt",
+				"/home/hyphen/C++/Hello/build.sh",
+				"/home/hyphen/C++/src/CMakeLists.txt",
+				"/home/hyphen/.config/bspwm/themes/polybar.sh",
+				"/home/hyphen/Test/test.zig",
+				"/home/hyphen/test.zig",
+				"/home/hyphen/Test/test.java",
+				"/home/hyphen/Test/test.py",
+				"/home/hyphen/.config/mimeapps.list",
+				"/home/hyphen/.zshrc",
+				"/home/hyphen/.config/sublime-text/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/hyphen/.config/bspwm/scripts/rofi_bluetooth",
+				"/mnt/sda1/MERN-ecommerce-backend/index.js",
+				"/home/hyphen/.config/bspwm/alacritty/alacritty.yml",
+				"/home/hyphen/.config/bspwm/picom.conf",
+				"/home/hyphen/.config/bspwm/themes/system.ini",
+				"/run/media/hyphen/Disk/PlK/MERN-ecommerce-backend/index.js",
+				"/home/hyphen/.zcompdump-hyphen-hplaptop15da3xxx-5.9",
+				"/home/hyphen/.vimrc",
+				"/home/hyphen/.config/bspwm/backup.txt",
+				"/home/hyphen/.config/bspwm/xsettingsd",
+				"/home/hyphen/.config/bspwm/dunstrc",
+				"/mnt/sda1/PlK/MERN-ecommerce-backend/index.js",
+				"/home/hyphen/.config/sublime-text/Packages/User/GitHub Dark.sublime-color-scheme",
+				"/home/hyphen/.config/sublime-text/Packages/GitHub Theme/schemes/GitHub Dark.sublime-color-scheme",
+				"/home/hyphen/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/hyphen/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/mnt/sda1/PlK",
+				"/run/media/hyphen/Disk/timeshift/snapshots-ondemand/2023-08-27_10-32-06/localhost/home/hyphen/.bashrc",
+				"/home/hyphen/.config/qtile/modules/keys.py",
+				"/home/hyphen/Test/test.css",
+				"/home/hyphen/Test/test.html",
+				"/home/hyphen/.config/sublime-text/Packages/LiveReload/LiveReload.sublime-settings",
+				"/home/hyphen/Test/streamlit.py",
+				"/home/hyphen/PLK-frontend/src/features/common/Footer.js",
+				"/home/hyphen/PLK-frontend/src/features/admin/components/ProductForm.js",
+				"/home/hyphen/PLK-frontend/src/features/navbar/Navbar.js",
+				"/home/hyphen/PLK-frontend/src/features/admin/components/AdminProductList.js",
+				"/home/hyphen/PLK-frontend/src/features/product/components/ProductDetail.js",
+				"/home/hyphen/PLK-frontend/src/pages/ProductDetailPage.js",
+				"/home/hyphen/PLK-frontend/src/features/product/productSlice.js",
+				"/home/hyphen/PLK-frontend/src/features/product/productAPI.js",
+				"/home/hyphen/MERN-ecommerce-backend/vercel.json",
+				"/home/hyphen/MERN-ecommerce-backend/index.js",
+				"/home/hyphen/MERN-ecommerce-backend/.env",
+				"/home/hyphen/MERN-ecommerce-backend/routes/payment.js",
+				"/home/hyphen/MERN-ecommerce-backend/services/common.js",
+				"/home/hyphen/MERN-ecommerce-backend/controller/paymentController.js",
+				"/home/hyphen/MERN-ecommerce-backend/controller/Order.js"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"menu_visible": false,
+			"output.LSP Log Panel":
+			{
+				"height": 174.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 156.0
+			},
+			"output.diagnostics":
+			{
+				"height": 162.0
+			},
+			"output.exec":
+			{
+				"height": 270.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups-dummy":
+			{
+				"height": 0.0
+			},
+			"output.references":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,6,6,1910,1032,1920,1080,0",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"nav",
+						"node_modules/node-forge/lib/asn1-validator.js"
+					],
+					[
+						"footer",
+						"components/Footer/Footer.jsx"
+					],
+					[
+						"nft",
+						"contracts/NFTMarketplace.sol"
+					],
+					[
+						"foot",
+						"src/features/common/Footer.js"
+					],
+					[
+						"productdea",
+						"src/features/product/components/ProductDetail.js"
+					],
+					[
+						"product",
+						"src/features/product/components/ProductDetail.js"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						".",
+						".env"
+					],
+					[
+						"packag",
+						"package.json"
+					],
+					[
+						"navba",
+						"src/features/navbar/Navbar.js"
+					],
+					[
+						"checkout",
+						"src/pages/Checkout.js"
+					],
+					[
+						"stripe",
+						"src/pages/StripeCheckout.js"
+					],
+					[
+						"colle",
+						"backend/node_modules/mongoose/lib/collection.js"
+					],
+					[
+						"index.js",
+						"backend/index.js"
+					],
+					[
+						"sign",
+						"src/features/auth/components/Signup.js"
+					],
+					[
+						"commen",
+						"node_modules/postcss/lib/comment.js"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"mon",
+						"lib/mongoose.js"
+					],
+					[
+						"page",
+						"app/page.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+				"_vintageous_last_char_search_command": "vi_f",
+				"_vintageous_last_character_search": "f",
+				"_vintageous_reset_during_init": true,
+				"vintage":
+				{
+					"_cmdline_cd": "/opt/sublime_text"
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 1
+			},
+			"window_id": 80
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

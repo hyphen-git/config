@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: JavaScript (Vite)
+scope: source.js.vite
+hidden: true
+file_extensions:
+  - vite.config.js
+  - vite.config.cjs
+  - vite.config.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true

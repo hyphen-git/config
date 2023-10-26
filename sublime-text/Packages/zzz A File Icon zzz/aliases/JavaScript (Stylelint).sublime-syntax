@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+name: JavaScript (Stylelint)
+scope: source.js.stylelint
+hidden: true
+file_extensions:
+  - .stylelintrc.js
+  - .stylelintrc.cjs
+  - .stylelintrc.mjs
+  - stylelint.config.js
+  - stylelint.config.cjs
+  - stylelint.config.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true

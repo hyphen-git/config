@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: Plain Text (Prolog)
+scope: source.prolog
+hidden: true
+file_extensions:
+  - pro
+  - prolog
+  - swiplrc
+  - ecl
+contexts:
+  main: []

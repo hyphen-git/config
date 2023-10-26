@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Gleam
+scope: source.gleam
+hidden: true
+file_extensions:
+  - gleam
+contexts:
+  main: []

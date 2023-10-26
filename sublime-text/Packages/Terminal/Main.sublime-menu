@@ -1,0 +1,45 @@
+[
+    {
+        "id": "preferences",
+        "children":
+        [
+            {
+                "id": "package-settings",
+                "children":
+                [
+                    {
+                        "caption": "Terminal",
+                        "children":
+                        [
+                            {
+                                "caption": "Settings",
+                                "command": "edit_settings",
+                                "args": {
+                                    "base_file": "${packages}/Terminal/Terminal.sublime-settings",
+                                    "default": "// Terminal Settings - User\n{\n\t$0\n}\n",
+                                }
+                            },
+                            {
+                                "caption": "OS Specific Settings",
+                                "command": "edit_settings",
+                                "args": {
+                                    "base_file": "${packages}/Terminal/Terminal.sublime-settings",
+                                    "user_file": "${packages}/User/Terminal ($platform).sublime-settings",
+                                    "default": "// Terminal OS Specific Settings - User\n{\n\t$0\n}\n"
+                                }
+                            },
+                            {
+                                "caption": "Key Bindings",
+                                "command": "edit_settings",
+                                "args": {
+                                    "base_file": "${packages}/Terminal/Default ($platform).sublime-keymap",
+                                    "default": "[\n\t$0\n]\n"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

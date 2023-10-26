@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Plain Text (Odin)
+scope: source.odin
+hidden: true
+file_extensions:
+  - odin
+contexts:
+  main: []

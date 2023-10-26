@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: JavaScript (Gruntfile)
+scope: source.js.gruntfile
+hidden: true
+file_extensions:
+  - gruntfile.js
+  - gruntfile.cjs
+  - gruntfile.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true

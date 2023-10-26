@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+name: JavaScript (pnpm)
+scope: source.js.pnpm
+hidden: true
+file_extensions:
+  - .pnpmfile.js
+  - .pnpmfile.cjs
+  - .pnpmfile.mjs
+  - global_pnpmfile.js
+  - global_pnpmfile.cjs
+  - global_pnpmfile.mjs
+contexts:
+  main:
+    - include: scope:source.js
+      apply_prototype: true
