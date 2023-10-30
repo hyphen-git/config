@@ -35,9 +35,18 @@ tooltip label {
 
 #mode,
 #clock,
-#battery {
+#battery,
+#memory {
   padding: 0 10px;
   margin-left: 10;
+}
+
+#memory {
+  margin-right: 20;
+}
+
+#network {
+  margin-right: 20;
 }
 
 #mode {
