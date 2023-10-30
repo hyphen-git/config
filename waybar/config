@@ -7,7 +7,7 @@
     // Choose the order of the modules
     "modules-left": ["hyprland/workspaces"],
     "modules-center": ["hyprland/window"],
-    "modules-right": [ "network", "battery", "battery#bat2", "clock", "trayr"],
+    "modules-right": ["memory", "network", "battery", "battery#bat2", "clock", "trayr"],
     // Modules configuration
     // "hyprland/workspaces": {
     //     "disable-scroll": true,
@@ -66,7 +66,7 @@
         "tooltip": false
     },
     "memory": {
-        "format": "{}% "
+        "format": "{used} "
     },
     "temperature": {
         // "thermal-zone": 2,
