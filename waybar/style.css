@@ -1,0 +1,80 @@
+* {
+  border: none;
+  border-radius: 8;
+  font-family: fira code;
+  font-size: 12px;
+  min-height: 0;
+  font-weight: 600;
+}
+
+window#waybar {
+  background: transparent;
+  border-bottom: transparent;
+  color: white;
+}
+
+tooltip {
+  background: transparent;
+  border: 1px solid rgba(100, 114, 125, 0.5);
+}
+tooltip label {
+  color: white;
+}
+
+#workspaces button {
+  padding: 0 5px;
+  background: transparent;
+  color: white;
+}
+
+#workspaces button.active {
+  background: plum;
+  color: black;
+  padding-top: 2;
+}
+
+#mode,
+#clock,
+#battery {
+  padding: 0 10px;
+  margin-left: 10;
+}
+
+#mode {
+  background: #64727d;
+  border-bottom: 3px solid white;
+}
+
+#clock {
+  background-color: greenyellow;
+  margin-right: 5;
+  padding-top: 2;
+  color: black;
+}
+
+#battery {
+  background-color: pink;
+  color: black;
+}
+
+#battery.charging {
+  color: black;
+  background-color: #26a65b;
+}
+
+@keyframes blink {
+  to {
+    background-color: #ffffff;
+    color: black;
+  }
+}
+
+#battery.warning:not(.charging) {
+  background: #f53c3c;
+  color: white;
+  animation-name: blink;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
