@@ -29,7 +29,6 @@ return {
 			ensure_installed = {
 				"clangd",
 				"tsserver",
-				"html",
 				"cssls",
 				"tailwindcss",
 				"lua_ls",

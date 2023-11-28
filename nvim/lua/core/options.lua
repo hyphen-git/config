@@ -24,7 +24,7 @@ opt.numberwidth = 4
 opt.ruler = false
 opt.relativenumber = true
 
-opt.shortmess:append "sI"
+opt.shortmess:append("sI")
 
 opt.signcolumn = "yes"
 opt.splitbelow = true
@@ -34,4 +34,3 @@ opt.timeoutlen = 400
 opt.undofile = true
 
 opt.updatetime = 250
-
